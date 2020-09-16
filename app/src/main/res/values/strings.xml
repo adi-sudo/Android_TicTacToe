@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tic Tac Toe_Adi_Game1</string>
+    <string name="Heading">Tic Tac Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="status">X\'s Turn</string>
+</resources>
